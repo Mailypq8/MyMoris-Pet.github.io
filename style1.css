@@ -1,0 +1,312 @@
+*{
+
+}
+
+.btn{
+    width: 80px;
+    font-family: "Congenial";
+    background-color: chocolate;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 20px 20px 20px 20px;
+    color:azure;
+    position: absolute;
+    left: 700px;
+    top: 8px;
+    text-align:  center;
+}
+
+.btn:hover {
+    background-color: transparent;
+    border: 2px solid #DE6C22;
+    color: white
+    ;
+}
+
+.btn1{
+    width: 80px;
+    font-family: "Congenial";
+    background-color: chocolate;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 20px 20px 20px 20px;
+    color:azure;
+    position: absolute;
+    left: 850px;
+    top: 8px;
+    text-align: center;
+}
+
+.btn1:hover {
+    background-color: transparent;
+    border: 2px solid #DE6C22;
+    color: white;
+}
+
+.btn2{
+    width: 80px;
+    font-family: "Congenial";
+    background-color: chocolate;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 20px 20px 20px 20px;
+    color:azure;
+    position: absolute;
+    left: 1000px;
+    top: 8px;
+    text-align: center;
+}
+
+.btn2:hover {
+    background-color: transparent;
+    border: 2px solid #DE6C22;
+    color: white;
+}
+
+.btn3{
+    width: 80px;
+    font-family: "Congenial";
+    background-color: chocolate;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 20px 20px 20px 20px;
+    color:azure;
+    position: absolute;
+    left: 1150px;
+    top: 8px;
+    text-align: center;
+}
+
+.btn3:hover {
+    background-color: transparent;
+    border: 2px solid #DE6C22;
+    color: white;
+}
+
+
+p{font-family:"Modern Love";
+    color:#d15a90;
+    font-size:207%;
+    margin-left: 136px; margin-right: 118px; margin-top: 22px;}
+
+
+.caja-1{
+    width: 1385px;
+    height: 75px;
+    left: 0px;
+    position: absolute;
+    background-color: #F9966B;
+    margin:auto;
+    top: -1px;
+    left: -32px;
+}
+
+.caja-2{
+    width: 100px;
+    height: 100px;
+    left: 0px;
+    position: relative;
+    top: -105px;
+    left: 360px;
+}
+
+#parrafo-1{
+    font-family:"Vallena - Personal use";
+    color:#5c1d39d2;
+    font-size:170%;
+    margin-left: 190px; margin-right: 140px; margin-top: -95px;
+}
+
+.caja-3{
+    width: 1070px;
+    height: 3.5px;
+    left: -1px;
+    position: relative;
+    background-color: #773a20;
+    margin:auto;
+    top: 10px;
+}
+
+#parrafo-2{
+    font-family:"Aurora";
+    color:#000000b9;
+    font-size:140%;
+    margin-left: 180px; margin-right: 600px; margin-top: -15px;
+    text-align: justify;
+}
+
+.caja-4{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    margin:auto;
+    top: -320px;
+    left: 150px;
+}
+
+#parrafo-3{
+    font-family:"Aurora";
+    color:#000000b9;
+    font-size:140%;
+    margin-left: 180px; margin-right: 140px; margin-top: -125px;
+    text-align: justify;
+}
+
+.caja-5{
+    width: 2px;
+    height: 3000px;
+    left: -515px;
+    position: relative;
+    background-color: #F9966B;
+    margin:auto;
+    top: -438px;
+}
+
+.caja-6{
+    width: 2px;
+    height: 2990px;
+    left: 550px;
+    position: relative;
+    background-color: #F9966B;
+    margin:auto;
+    top: -3422px;
+}
+
+.caja-7{
+    width: 100px;
+    height: 100px;
+    left: 0px;
+    position: relative;
+    top: -6000px;
+    left: 185px;
+}
+
+#parrafo-4{
+    font-family:"Cooper Black";
+    color:#000000;
+    font-size:145%;
+    margin-left: 240px; margin-right: 150px; margin-top: -6077px;
+    text-align: justify;
+}
+
+.caja-8{
+    width: 100px;
+    height: 100px;
+    left: 0px;
+    position: relative;
+    top: -10px;
+    left: 215px;
+}
+
+.caja-9{
+    width: 100px;
+    height: 100px;
+    left: 0px;
+    position: relative;
+    top: -115px;
+    left: 800px;
+}
+
+.caja-10{
+    width: 100px;
+    height: 100px;
+    left: 0px;
+    position: relative;
+    top: -665px;
+    margin: auto;
+    left: 630px;
+}
+
+#parrafo-5{
+    font-family:"MoolBoran";
+    color:#000000;
+    font-size: 80%;
+    margin-left: 1265px; margin-right: 0px; margin-top: -705px;
+    text-align: justify;
+}
+
+.caja-11{
+    width: 100px;
+    height: 100px;
+    left: 0px;
+    position: relative;
+    top: 555px;
+    left: 205px;
+}
+
+#parrafo-6{
+    font-family:"Broadway";
+    color:#000000;
+    font-size: 155%;
+    margin-left: 522px; margin-right: 120px; margin-top: 450px;
+    text-align: justify;
+}
+
+#parrafo-7{
+    font-family:"MoolBoran";
+    color:#000000;
+    font-size: 110%;
+    margin-left: 480px; margin-right: 170px; margin-top: -20px;
+    text-align: justify;
+}
+
+#parrafo-8{
+    font-family:"Broadway";
+    color:#000000;
+    font-size: 155%;
+    margin-left: 950px; margin-right: 120px; margin-top: -15px;
+    text-align: justify;
+}
+
+#parrafo-9{
+    font-family:"MoolBoran";
+    color:#000000;
+    font-size: 110%;
+    margin-left: 480px; margin-right: 170px; margin-top: -20px;
+    text-align: justify;
+}
+
+.caja-12{
+    width: 100px;
+    height: 100px;
+    left: 0px;
+    position: relative;
+    top: 14px;
+    left: 190px;
+}
+
+.caja-13{
+    width: 100px;
+    height: 100px;
+    left: 0px;
+    position: relative;
+    top: -93px;
+    left: 750px;
+}
+
+.caja-14{
+    width: 100px;
+    height: 100px;
+    left: 0px;
+    position: relative;
+    top: 190px;
+    left: 220px;
+}
+
+#parrafo-10{
+    font-family:"Broadway";
+    color:#000000;
+    font-size: 115%;
+    margin-left: 660px; margin-right: 120px; margin-top: 130px;
+    text-align: justify;
+}
+
+.caja-15{
+    width: 440px;
+    height: 215px;
+    border: 2px solid black;
+    left: 0px;
+    position: relative;
+    top: 20px;
+    left: 705px;
+}
